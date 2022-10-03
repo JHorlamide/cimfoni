@@ -1,7 +1,5 @@
 import ArrowSVG from "../assets/icons/arrow";
 import facebookIcon from "../assets/icons/facebook.png";
-// import twitterIcon from "../assets/icons/twitter.png";
-// import linkedinIcon from "../assets/icons/linkedin.png";
 import instagramIcon from "../assets/icons/instagram.png";
 
 // Supporting Brands Logos
